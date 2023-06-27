@@ -1,0 +1,7 @@
+{
+    "stg": {
+    },
+    "uat": {
+        "baseUrl": "https://service-mesh-ingress-uat.fundingasiagroup.com/borrower-backend-service"
+    }
+}
